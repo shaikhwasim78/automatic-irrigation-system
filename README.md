@@ -7,10 +7,11 @@ Requirements:
 3. Spring STS / Eclipse
 
 Steps to configure the project:
-1. Replace database url, username & password in 'application.properties' file.
-2. Build the project.
-3. Run the project as SpringBoot application.
-4. Open Swagger for Api documentation (http://localhost:8082/ais/swagger-ui.html)
+1. Create a database 'automatic-irrigation-system' in MySQL.
+2. Replace database url, username & password in 'application.properties' file.
+3. Build the project.
+4. Run the project as SpringBoot application.
+5. Open Swagger for Api documentation (http://localhost:8082/ais/swagger-ui.html)
 
 Steps for automatic irrigation:
 1. Create a plot. (http://localhost:8082/ais/swagger-ui.html#/plot-controller/createPlotUsingPOST)
