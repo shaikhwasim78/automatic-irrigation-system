@@ -20,5 +20,7 @@ Steps for automatic irrigation:
 4. After this the plot will automatically irrigated from time-to-time via schedulers.
 
 
+NOTE: For testing the Alert System, plotId-1 is set to always fail the irrigation.
+
 For any assistance contact me on:
 Wasim.Shaikh@xebia.com
